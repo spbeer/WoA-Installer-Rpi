@@ -30,7 +30,7 @@ Download the **[latest version](https://github.com/SuperJMN/WoA-Installer/releas
 
 ## 2. Core Package
 
-Download it from **[here](https://1drv.ms/f/s!AtXoQFW327DIyMxxCDU_uUM6o6dn2A)**.
+Download it from **[here](https://1drv.ms/f/s!AtXoQFW327DIyMxxCDU_uUM6o6dn2A)**.（can not download it)
 
 ## Installing the Core Package
 Run WoA Installer and go to the **Advanced** section. Click on `[Import Core Package]` and select the package directly. Don't attempt to uncompress it. After the import operation, you will be able to use deploy Windows.
@@ -40,7 +40,8 @@ Run WoA Installer and go to the **Advanced** section. Click on `[Import Core Pac
 If you find this useful, feel free to [buy me a coffee ☕](http://paypal.me/superjmn). Thanks in advance!!
 
 ## Donate to the contributors of this project
-Please, don't forget that the RaspberryPi WOA Project is supported by other individuals and companies (see the [credits and acknowledgements section](#credits-and-acknowledgements)).
+Please, don't forget that the RaspberryPi WOA Project is supported by other individuals and companies (see the [credits and acknowledgements section](#credits-and-acknowledgements
+)).
  - Donate to MCCI. Why? [Read this 🗒](Docs/mcci_donate.md) 
 
 # Need help?
